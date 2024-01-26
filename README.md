@@ -2,6 +2,18 @@
 
 Passionate and experienced IT professional with a focus on system administration and security. I thrive in Unix and Linux environments, wielding expertise in shell scripting ( BASH, AWK, & Sed ), Python, Splunk.
 
+### Languages and tools ⚙️
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p align="left">
+  <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> 
+  <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> 
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
+</p>
+
 ## 💻 Skills
 - **Scripting Languages:** BASH, Python, AWK, Sed.
 - **Security Tools:** Tenable products: Tenable.sc, Nessus Scanner, Nessus Manager, Nessus Agents, Nessus Network Monitor, Splunk.
