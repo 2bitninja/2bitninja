@@ -10,13 +10,16 @@ Passionate and experienced IT professional with a focus on system administration
   <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> 
   
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/331601/tenable.svg" alt="Nessus Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/354516/vim.svg" alt="VIM Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+  
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
 </p>
 
 ## 💻 Skills
 - **Scripting Languages:** BASH, Python, AWK, Sed.
-- **Security Tools:** Tenable products: Tenable.sc, Nessus Scanner, Nessus Manager, Nessus Agents, Nessus Network Monitor, Splunk.
+- **Security Tools:** Tenable.sc, Nessus Scanner, Nessus Manager, Nessus Agents, Nessus Network Monitor, Splunk.
 - **Web Technologies:** HTML, CSS.
 - **Operating Systems:** UNIX, Linux, Solaris, Windows.
 
