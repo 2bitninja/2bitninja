@@ -18,10 +18,11 @@ Passionate and experienced IT professional with a focus on system administration
 </p>
 
 ## 💻 Skills
+- **Operating Systems:** UNIX, Linux, Solaris, Windows.
 - **Scripting Languages:** BASH, Python, AWK, Sed.
 - **Security Tools:** Tenable.sc, Nessus Scanner, Nessus Manager, Nessus Agents, Nessus Network Monitor, Splunk.
 - **Web Technologies:** HTML, CSS.
-- **Operating Systems:** UNIX, Linux, Solaris, Windows.
+
 
 ## 🚀 Highlights
 - Led successful security scanning initiatives using Security Center and Nessus, ensuring robust system defenses.
