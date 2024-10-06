@@ -38,6 +38,8 @@ I'm an experienced IT professional with a focus on system administration, securi
 My projects span across Security Optimization, Automation Scripting, Web Development, and more. Below is a quick overview:
 ### Security Optimization: 
 I’ve created tools that enhance security operations by automating the verification and sanitization processes to ensure systems are secure and compliant.
+  - **Tenable-Utility**: is a script designed to streamline the management of user accounts in Tenable.sc and Nessus. This utility allows for locking and unlocking accounts, resetting passwords, and managing Nessus users efficiently. The script integrates functionalities from existing scripts (Tenable-password-reset.sh and Tenable-check-users.sh) into a single, cohesive tool.
+Additionally, the script can check the installation status and version numbers of both Tenable.sc and Nessus, helping administrators easily verify that these applications are installed and up to date.
   - **check-scan**: Verifies Tenable.sc and Nessus scans to confirm proper credentialing. This tool streamlines the vulnerability management process, ensuring thoroughness and accuracy in scan results.
   - **sanitize**: Helps users remove personal, corporate, or sensitive data from files, ensuring privacy when files are shared externally.
   - **Various Hardening Scripts**: Implements Security Technical Implementation Guides (STIGs) to harden systems. Most are in private repos, but some snippets are available in the code-snippets repository.
@@ -51,7 +53,6 @@ Automating routine processes using scripts to improve operational efficiency and
 Projects aimed at creating functional, user-friendly web interfaces.
  - **web-archive**: Contains old web projects that demonstrate my work in designing accessible and user-centric interfaces.
 ### Miscellaneous Scripts
-- **PythonAudiobookGenerator**: Converts text files into audiobooks with Python.
 - **m-mail**: A command-line email application designed for sending emails efficiently.
 - **se-mail**: Sends emails to vendor support systems to create trouble tickets automatically.
 ---
