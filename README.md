@@ -28,7 +28,7 @@ I'm an experienced IT professional with a focus on system administration, securi
 ---
 
 ## 🚀 Highlights
-- Spearheaded security scanning initiatives using Security Center and Nessus, ensuring robust system defenses.
+- Spearheaded security scanning initiatives using Tenable.sc (formerly Security Center), Nessus Manager, Nessus Scanner, Nessus Network Manager (NNM), and Nessus Agents, ensuring robust system defenses.
 - Automated complex operational tasks using BASH, AWK, and Sed, enhancing efficiency in Unix/Linux environments.
 - Developed user-friendly web interfaces using HTML and CSS.
 
