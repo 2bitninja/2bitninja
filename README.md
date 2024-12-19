@@ -81,7 +81,12 @@ I'm an experienced IT professional with a focus on system administration, securi
 ---
 
 ## 💻 Skills
-- **Operating Systems:** Unix, Linux ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux), Solaris, Windows.
+- **Operating Systems:** Unix, Linux, Solaris, Windows.
+- **Scripting Languages:** Bash, Python, AWK, Sed.
+- **Security Tools:** Tenable.sc, Nessus, Splunk.
+- **Web Technologies:** HTML, CSS.
+<!---
+  ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
   ![Solaris](https://shields.io/badge/Solaris--9cf?logo=Oracle&style=social) ![platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)
   ![platform](https://img.shields.io/badge/platform-BASH%20%7C%20KSH%20%7C%20CSH-lightgray)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -91,10 +96,7 @@ I'm an experienced IT professional with a focus on system administration, securi
   ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
-- **Scripting Languages:** Bash, Python, AWK, Sed.
-- **Security Tools:** Tenable.sc, Nessus, Splunk.
-- **Web Technologies:** HTML, CSS.
-
+--->  
 ---
 
 ## 🚀 Highlights
